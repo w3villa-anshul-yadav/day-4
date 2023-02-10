@@ -199,14 +199,7 @@ bottom image gallery style
     
 }
 
-.top-image img:hover{
-    z-index: 22;
-    margin: 4px;
-    width:330px;
-    height:140px ;
-    border-radius: 13px
-    background-color:rgb(63, 149, 241);
-}
+ 
 
 
 
